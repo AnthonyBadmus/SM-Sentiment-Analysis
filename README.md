@@ -20,8 +20,6 @@ Brand Mentions and Influencers
 
 # Dataset
 
-Source: 
-
 Columns: unique_id, tweet, date, username, location, source, num_of_likes, num_of_retweets
 
 Preprocessing:
@@ -76,7 +74,7 @@ Most Liked and Retweeted Tweets:
 
 # Sentiment Analysis
 
-- Model Used: cardiffnlp/twitter-roberta-base-sentiment-latest
+Model Used: cardiffnlp/twitter-roberta-base-sentiment-latest
 
 Steps:
 
@@ -88,7 +86,7 @@ Steps:
 
 # Findings:
 
-Analyzed 501 tweets from 320 unique users.
+- Analyzed 501 tweets from 320 unique users.
 - Positive sentiment dominates (98.6%).
 - SkinCareAddict is the top tweeter.
 - Most tweets originate from Chicago, IL and Twitter web app.
